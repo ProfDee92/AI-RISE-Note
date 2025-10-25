@@ -3,6 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
-  - notebook
-  - rise
+  - notebook<7         
   - ipywidgets
+  - rise               
