@@ -1,0 +1,4 @@
+# Install RISE and enable it
+pip install rise
+jupyter-nbextension install rise --py --sys-prefix
+jupyter-nbextension enable rise --py --sys-prefix
